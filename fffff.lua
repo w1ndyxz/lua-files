@@ -30,8 +30,8 @@ evalib = {
     },
  
     key_check = {
-        beta = "CTpGf9",
-        prem = "wXKFNj",
+        beta = "3jtsLg",
+        prem = "3jtsLg",
     },
 
     pivate_key = {
